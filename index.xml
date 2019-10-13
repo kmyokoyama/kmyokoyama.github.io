@@ -6,9 +6,22 @@
     <description>Recent content on Kazuki Yokoyama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 25 Jun 2019 14:08:04 -0300</lastBuildDate>
     
 	<atom:link href="https://kmyokoyama.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Movile/RSJUG Meetup - Java Efetivo para quem tem pressa</title>
+      <link>https://kmyokoyama.github.io/presentations/2019-06-25-movile-jug-meetup/</link>
+      <pubDate>Tue, 25 Jun 2019 14:08:04 -0300</pubDate>
+      
+      <guid>https://kmyokoyama.github.io/presentations/2019-06-25-movile-jug-meetup/</guid>
+      <description>Link da apresentação: Java Efetivo para quem tem pressa.
+Olá, galera.
+Nesta última terça-feira foi dia de falar sobre Java efetivo na primeira edição da Movile Meetup em parceria com o RSJUG. O meetup foi realizado no espaço de eventos da Flowork, onde se localiza atualmente o hub de desenvolvimento da Movile (iFood, Wavy etc) em Porto Alegre.
+Apesar da chuva, tudo correu super bem e foi muito produtivo para conhecer novas pessoas e contribuir um pouco com a comunidade.</description>
+    </item>
     
     <item>
       <title>Sobre mim</title>
