@@ -6,10 +6,22 @@
     <description>Recent content on Kazuki Yokoyama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Jun 2019 14:08:04 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 15:44:09 -0300</lastBuildDate>
     
 	<atom:link href="https://kmyokoyama.github.io/presentations/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Movile Mobile Dream</title>
+      <link>https://kmyokoyama.github.io/presentations/2019-08-28-movile-mobile-dream/</link>
+      <pubDate>Wed, 28 Aug 2019 15:44:09 -0300</pubDate>
+      
+      <guid>https://kmyokoyama.github.io/presentations/2019-08-28-movile-mobile-dream/</guid>
+      <description>Olá, galera.
+Esta última quarta-feira foi a vez de chamar o pessoal da PUCRS para participar de mais uma edição do Mobile Dream.
+Eu e a Sara Lacerda, da Wavy, fomos até a PUCRS para falar um pouquinho sobre a Movile, sobre a nossa vivência dentro das empresas do grupo, e ajudar o pessoal a tirar dúvidas sobre o programa.
+O Mobile Dream é composto na verdade de dois programas, um para estágio e outro pra trainee.</description>
+    </item>
     
     <item>
       <title>Movile/RSJUG Meetup - Java Efetivo para quem tem pressa</title>
