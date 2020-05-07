@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kazuki Yokoyama</title>
@@ -30,7 +30,7 @@ O Mobile Dream é composto na verdade de dois programas, um para estágio e outr
       
       <guid>https://kmyokoyama.github.io/presentations/2019-06-25-movile-jug-meetup/</guid>
       <description>Link da apresentação: Java Efetivo para quem tem pressa.
-Olá, galera.
+ Olá, galera.
 Nesta última terça-feira foi dia de falar sobre Java efetivo na primeira edição da Movile Meetup em parceria com o RSJUG. O meetup foi realizado no espaço de eventos da Flowork, onde se localiza atualmente o hub de desenvolvimento da Movile (iFood, Wavy etc) em Porto Alegre.
 Apesar da chuva, tudo correu super bem e foi muito produtivo para conhecer novas pessoas e contribuir um pouco com a comunidade.</description>
     </item>
