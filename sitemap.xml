@@ -3,14 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kmyokoyama.github.io/presentations/</loc>
-    <lastmod>2019-08-28T15:44:09-03:00</lastmod>
+    <loc>https://kmyokoyama.github.io/reviews/</loc>
+    <lastmod>2020-05-07T16:48:20-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://kmyokoyama.github.io/tags/databases/</loc>
+    <lastmod>2020-05-07T16:48:20-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kmyokoyama.github.io/</loc>
+    <lastmod>2020-05-07T16:48:20-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kmyokoyama.github.io/tags/microservices/</loc>
+    <lastmod>2020-05-07T16:48:20-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kmyokoyama.github.io/reviews/migrating-microservie-databases/</loc>
+    <lastmod>2020-05-07T16:48:20-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kmyokoyama.github.io/tags/reviews/</loc>
+    <lastmod>2020-05-07T16:48:20-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kmyokoyama.github.io/tags/</loc>
+    <lastmod>2020-05-07T16:48:20-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kmyokoyama.github.io/presentations/</loc>
     <lastmod>2019-08-28T15:44:09-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -29,20 +60,11 @@
   </url>
   
   <url>
-    <loc>https://kmyokoyama.github.io/reviews/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kmyokoyama.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://kmyokoyama.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kmyokoyama.github.io/tags/</loc>
   </url>
   
 </urlset>

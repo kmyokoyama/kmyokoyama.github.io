@@ -6,10 +6,19 @@
     <description>Recent content on Kazuki Yokoyama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Aug 2019 15:44:09 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 16:48:20 -0300</lastBuildDate>
     
 	<atom:link href="https://kmyokoyama.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Migrating Microservice Databases</title>
+      <link>https://kmyokoyama.github.io/reviews/migrating-microservie-databases/</link>
+      <pubDate>Thu, 07 May 2020 16:48:20 -0300</pubDate>
+      
+      <guid>https://kmyokoyama.github.io/reviews/migrating-microservie-databases/</guid>
+      <description>Título: Migrating to Microservice Databases - From Relational Monolith to Distributed Data Autor: Edson Yanaga Editora: O&amp;rsquo;Reilly Ano: 2017 (1ª edição) Páginas: 60  Review Essa é a primeira review que escrevo sobre livros que estou lendo ou já li inteiros. A ideia é passar as minhas impressões e tentar ajudar a guiar quem está buscando a próxima leitura e, assim como eu, recorre a comentários de quem já teve a oportunidade de folhear o material.</description>
+    </item>
     
     <item>
       <title>Movile Mobile Dream</title>

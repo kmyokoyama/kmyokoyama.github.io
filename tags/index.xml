@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Kazuki Yokoyama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 07 May 2020 16:48:20 -0300</lastBuildDate>
     
 	<atom:link href="https://kmyokoyama.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>databases</title>
+      <link>https://kmyokoyama.github.io/tags/databases/</link>
+      <pubDate>Thu, 07 May 2020 16:48:20 -0300</pubDate>
+      
+      <guid>https://kmyokoyama.github.io/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microservices</title>
+      <link>https://kmyokoyama.github.io/tags/microservices/</link>
+      <pubDate>Thu, 07 May 2020 16:48:20 -0300</pubDate>
+      
+      <guid>https://kmyokoyama.github.io/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reviews</title>
+      <link>https://kmyokoyama.github.io/tags/reviews/</link>
+      <pubDate>Thu, 07 May 2020 16:48:20 -0300</pubDate>
+      
+      <guid>https://kmyokoyama.github.io/tags/reviews/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
