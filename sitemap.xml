@@ -4,17 +4,42 @@
   
   <url>
     <loc>https://kmyokoyama.github.io/reviews/</loc>
-    <lastmod>2020-05-07T16:48:20-03:00</lastmod>
+    <lastmod>2020-05-20T18:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kmyokoyama.github.io/tags/databases/</loc>
-    <lastmod>2020-05-07T16:48:20-03:00</lastmod>
+    <loc>https://kmyokoyama.github.io/tags/architecture/</loc>
+    <lastmod>2020-05-20T18:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kmyokoyama.github.io/reviews/get-your-hands-dirty-on-clean-architecture/</loc>
+    <lastmod>2020-05-20T18:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kmyokoyama.github.io/tags/java/</loc>
+    <lastmod>2020-05-20T18:00:00-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://kmyokoyama.github.io/</loc>
+    <lastmod>2020-05-20T18:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kmyokoyama.github.io/tags/reviews/</loc>
+    <lastmod>2020-05-20T18:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kmyokoyama.github.io/tags/</loc>
+    <lastmod>2020-05-20T18:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kmyokoyama.github.io/tags/databases/</loc>
     <lastmod>2020-05-07T16:48:20-03:00</lastmod>
   </url>
   
@@ -24,17 +49,7 @@
   </url>
   
   <url>
-    <loc>https://kmyokoyama.github.io/reviews/migrating-microservie-databases/</loc>
-    <lastmod>2020-05-07T16:48:20-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kmyokoyama.github.io/tags/reviews/</loc>
-    <lastmod>2020-05-07T16:48:20-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kmyokoyama.github.io/tags/</loc>
+    <loc>https://kmyokoyama.github.io/reviews/migrating-microservice-databases/</loc>
     <lastmod>2020-05-07T16:48:20-03:00</lastmod>
   </url>
   

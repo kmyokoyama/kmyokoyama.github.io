@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Kazuki Yokoyama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2020 16:48:20 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 18:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://kmyokoyama.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>architecture</title>
+      <link>https://kmyokoyama.github.io/tags/architecture/</link>
+      <pubDate>Wed, 20 May 2020 18:00:00 -0300</pubDate>
+      
+      <guid>https://kmyokoyama.github.io/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://kmyokoyama.github.io/tags/java/</link>
+      <pubDate>Wed, 20 May 2020 18:00:00 -0300</pubDate>
+      
+      <guid>https://kmyokoyama.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reviews</title>
+      <link>https://kmyokoyama.github.io/tags/reviews/</link>
+      <pubDate>Wed, 20 May 2020 18:00:00 -0300</pubDate>
+      
+      <guid>https://kmyokoyama.github.io/tags/reviews/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>databases</title>
@@ -26,15 +53,6 @@
       <pubDate>Thu, 07 May 2020 16:48:20 -0300</pubDate>
       
       <guid>https://kmyokoyama.github.io/tags/microservices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reviews</title>
-      <link>https://kmyokoyama.github.io/tags/reviews/</link>
-      <pubDate>Thu, 07 May 2020 16:48:20 -0300</pubDate>
-      
-      <guid>https://kmyokoyama.github.io/tags/reviews/</guid>
       <description></description>
     </item>
     
